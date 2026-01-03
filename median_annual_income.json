@@ -1,0 +1,34 @@
+{
+    "values": [
+        {
+            "code": "JP",
+            "currency": "JPY",
+            "country": "Japan",
+            "median_income": 3800000
+        },
+        {
+            "code": "KR",
+            "currency": "KRW",
+            "country": "South Korea",
+            "median_income": 45000000
+        },
+        {
+            "code": "TW",
+            "currency": "TWD",
+            "country": "Taiwan",
+            "median_income": 546000
+        },
+        {
+            "code": "CN",
+            "currency": "CNY",
+            "country": "China",
+            "median_income": 36370
+        },
+        {
+            "code": "US",
+            "currency": "USD",
+            "country": "United States",
+            "median_income": 96000
+        }
+    ]
+}
