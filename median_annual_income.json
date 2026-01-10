@@ -95,6 +95,48 @@
             "currency": "SGD",
             "country": "Singapore",
             "median_income": 66000
+        },
+        {
+            "code": "NZ",
+            "currency": "NZD",
+            "country": "New Zealand",
+            "median_income": 69836
+        },
+        {
+            "code": "IE",
+            "currency": "EUR",
+            "country": "Ireland",
+            "median_income": 58922
+        },
+        {
+            "code": "AT",
+            "currency": "EUR",
+            "country": "Austria",
+            "median_income": 47940
+        },
+        {
+            "code": "CH",
+            "currency": "CHF",
+            "country": "Switzerland",
+            "median_income": 84288
+        },
+        {
+            "code": "MX",
+            "currency": "MXN",
+            "country": "Mexico",
+            "median_income": 174000
+        },
+        {
+          "code": "AR",
+          "currency": "ARS",
+          "country": "Argentina",
+          "median_income": 4440000
+        },
+        {
+          "code": "BE",
+          "currency": "EUR",
+          "country": "Belgium",
+          "median_income": 44736
         }
     ]
 }
