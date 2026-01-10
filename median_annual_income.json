@@ -29,6 +29,72 @@
             "currency": "USD",
             "country": "United States",
             "median_income": 96000
+        },
+        {
+            "code": "GB",
+            "currency": "GBP",
+            "country": "United Kingdom",
+            "median_income": 37430
+        },
+        {
+            "code": "CA",
+            "currency": "CAD",
+            "country": "Canada",
+            "median_income": 84400
+        },
+        {
+            "code": "AU",
+            "currency": "AUD",
+            "country": "Australia",
+            "median_income": 67600
+        },
+        {
+            "code": "DE",
+            "currency": "EUR",
+            "country": "Germany",
+            "median_income": 52159
+        },
+        {
+            "code": "FR",
+            "currency": "EUR",
+            "country": "France",
+            "median_income": 26280
+        },
+        {
+            "code": "ES",
+            "currency": "EUR",
+            "country": "Spain",
+            "median_income": 21000
+        },
+        {
+            "code": "IT",
+            "currency": "EUR",
+            "country": "Italy",
+            "median_income": 22800
+        },
+        {
+            "code": "NL",
+            "currency": "EUR",
+            "country": "Netherlands",
+            "median_income": 46500
+        },
+        {
+            "code": "BR",
+            "currency": "BRL",
+            "country": "Brazil",
+            "median_income": 89400
+        },
+        {
+            "code": "PT",
+            "currency": "EUR",
+            "country": "Portugal",
+            "median_income": 14880
+        },
+        {
+            "code": "SG",
+            "currency": "SGD",
+            "country": "Singapore",
+            "median_income": 66000
         }
     ]
 }
