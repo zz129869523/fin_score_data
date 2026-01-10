@@ -127,16 +127,22 @@
             "median_income": 174000
         },
         {
-          "code": "AR",
-          "currency": "ARS",
-          "country": "Argentina",
-          "median_income": 4440000
+            "code": "AR",
+            "currency": "ARS",
+            "country": "Argentina",
+            "median_income": 4440000
         },
         {
-          "code": "BE",
-          "currency": "EUR",
-          "country": "Belgium",
-          "median_income": 44736
+            "code": "BE",
+            "currency": "EUR",
+            "country": "Belgium",
+            "median_income": 44736
+        },
+        {
+            "code": "HK",
+            "currency": "HKD",
+            "country": "Hong Kong",
+            "median_income": 246000
         }
     ]
 }
