@@ -115,6 +115,12 @@
             "median_income": 47940
         },
         {
+            "code": "GR",
+            "currency": "EUR",
+            "country": "Greece",
+            "median_income": 12000
+        },
+        {
             "code": "CH",
             "currency": "CHF",
             "country": "Switzerland",
@@ -163,22 +169,28 @@
             "median_income": 12150000
         },
         {
-          "code": "TH",
-          "currency": "THB",
-          "country": "Thailand",
-          "median_income": 351600
+            "code": "TH",
+            "currency": "THB",
+            "country": "Thailand",
+            "median_income": 351600
         },
         {
-          "code": "ID",
-          "currency": "IDR",
-          "country": "Indonesia",
-          "median_income": 48000000
+            "code": "ID",
+            "currency": "IDR",
+            "country": "Indonesia",
+            "median_income": 48000000
         },
         {
-          "code": "IN",
-          "currency": "INR",
-          "country": "India",
-          "median_income": 352800
+            "code": "IN",
+            "currency": "INR",
+            "country": "India",
+            "median_income": 352800
+        },
+        {
+            "code": "CR",
+            "currency": "CRC",
+            "country": "Costa Rica",
+            "median_income": 25680000
         }
     ]
 }
