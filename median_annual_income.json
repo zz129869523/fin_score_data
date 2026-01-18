@@ -143,6 +143,42 @@
             "currency": "HKD",
             "country": "Hong Kong",
             "median_income": 246000
+        },
+        {
+            "code": "VN",
+            "currency": "VND",
+            "country": "Vietnam",
+            "median_income": 178800000
+        },
+        {
+            "code": "LA",
+            "currency": "LAK",
+            "country": "Laos",
+            "median_income": 42000000
+        },
+        {
+            "code": "KH",
+            "currency": "KHR",
+            "country": "Cambodia",
+            "median_income": 12150000
+        },
+        {
+          "code": "TH",
+          "currency": "THB",
+          "country": "Thailand",
+          "median_income": 351600
+        },
+        {
+          "code": "ID",
+          "currency": "IDR",
+          "country": "Indonesia",
+          "median_income": 48000000
+        },
+        {
+          "code": "IN",
+          "currency": "INR",
+          "country": "India",
+          "median_income": 352800
         }
     ]
 }
