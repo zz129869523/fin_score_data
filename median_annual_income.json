@@ -191,6 +191,143 @@
             "currency": "CRC",
             "country": "Costa Rica",
             "median_income": 25680000
+        },
+        {
+            "code": "NP",
+            "currency": "NPR",
+            "country": "Nepal",
+            "median_income": 360000
+        },
+        {
+            "code": "LK",
+            "currency": "LKR",
+            "country": "Sri Lanka",
+            "median_income": 600000
+        },
+        {
+            "code": "PL",
+            "currency": "PLN",
+            "country": "Poland",
+            "median_income": 85800
+        },
+        {
+            "code": "MY",
+            "currency": "MYR",
+            "country": "Malaysia",
+            "median_income": 36000
+        },
+        {
+            "code": "PH",
+            "currency": "PHP",
+            "country": "Philippines",
+            "median_income": 247000
+        },
+        {
+            "code": "SE",
+            "currency": "SEK",
+            "country": "Sweden",
+            "median_income": 427200
+        },
+        {
+            "code": "IL",
+            "currency": "ILS",
+            "country": "Israel",
+            "median_income": 156000
+        },
+        {
+            "code": "RO",
+            "currency": "RON",
+            "country": "Romania",
+            "median_income": 97920
+        },
+        {
+            "code": "UA",
+            "currency": "UAH",
+            "country": "Ukraine",
+            "median_income": 300000
+        },
+        {
+            "code": "RU",
+            "currency": "RUB",
+            "country": "Russia",
+            "median_income": 851028
+        },
+        {
+            "code": "RS",
+            "currency": "RSD",
+            "country": "Serbia",
+            "median_income": 1040424
+        },
+        {
+            "code": "AM",
+            "currency": "AMD",
+            "country": "Armenia",
+            "median_income": 3300000
+        },
+        {
+            "code": "AZ",
+            "currency": "AZN",
+            "country": "Azerbaijan",
+            "median_income": 3782.4
+        },
+        {
+            "code": "LU",
+            "currency": "EUR",
+            "country": "Luxembourg",
+            "median_income": 42482
+        },
+        {
+            "code": "SK",
+            "currency": "EUR",
+            "country": "Slovakia",
+            "median_income": 16836
+        },
+        {
+            "code": "CZ",
+            "currency": "CZK",
+            "country": "Czech Republic",
+            "median_income": 514812
+        },
+        {
+            "code": "BG",
+            "currency": "BGN",
+            "country": "Bulgaria",
+            "median_income": 24000
+        },
+        {
+            "code": "EE",
+            "currency": "EUR",
+            "country": "Estonia",
+            "median_income": 20664
+        },
+        {
+            "code": "LV",
+            "currency": "EUR",
+            "country": "Latvia",
+            "median_income": 21696
+        },
+        {
+            "code": "LT",
+            "currency": "EUR",
+            "country": "Lithuania",
+            "median_income": 21600
+        },
+        {
+            "code": "FI",
+            "currency": "EUR",
+            "country": "Finland",
+            "median_income": 43332
+        },
+        {
+            "code": "NO",
+            "currency": "NOK",
+            "country": "Norway",
+            "median_income": 564000
+        },
+        {
+            "code": "IS",
+            "currency": "ISK",
+            "country": "Iceland",
+            "median_income": 753000
         }
-    ]
 }
